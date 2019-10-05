@@ -12,4 +12,4 @@ Smith Gajjar Vivekanand</br>
 Jayesh Kriplani Vivekanand</br>
 abhishek waghmare vivekanand </br>
 
-Tanuj Palaspagar TCET<br>
+Tanuj Palaspagar<br>
